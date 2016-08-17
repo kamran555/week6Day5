@@ -1,0 +1,31 @@
+ .slide{
+
+
+	height: 400px;
+	background-color:red;
+}
+
+
+.ctn{
+
+
+	height: 500px;
+	background-color:yellow;
+
+}
+
+.prc{
+
+
+	height: 400px;
+	background-color:black;
+
+}
+
+.ftr{
+
+
+	height: 500px;
+	background-color:blue;
+
+}
